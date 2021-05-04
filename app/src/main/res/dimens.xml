@@ -1,0 +1,293 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="horizontal_margin">16dp</dimen>
+    <dimen name="horizontal_margin_medium">24dp</dimen>
+    <dimen name="horizontal_margin_detail">4dp</dimen>
+    <dimen name="horizontal_margin_small">8dp</dimen>
+    <dimen name="horizontal_margin_large">32dp</dimen>
+    <dimen name="horizontal_margin_extra_large">64dp</dimen>
+    <dimen name="horizontal_margin_thin">2dp</dimen>
+    <dimen name="vertical_margin">16dp</dimen>
+    <dimen name="vertical_margin_thin">2dp</dimen>
+    <dimen name="vertical_margin_detail">4dp</dimen>
+    <dimen name="vertical_margin_small">8dp</dimen>
+    <dimen name="vertical_margin_small_medium">12dp</dimen>
+    <dimen name="vertical_margin_large">32dp</dimen>
+    <dimen name="vertical_margin_Xlarge">48dp</dimen>
+    <dimen name="vertical_margin_XXlarge">96dp</dimen>
+    <dimen name="vertical_margin_medium">24dp</dimen>
+    <dimen name="minimal_height">300dp</dimen>
+    <dimen name="default_margin_and_padding">16dp</dimen>
+
+    <!--TEXT SIZES-->
+    <dimen name="text_initials_login">50sp</dimen>
+    <dimen name="text_title_forgot_password">30sp</dimen>
+    <dimen name="text_display">34sp</dimen>
+    <dimen name="text_headline_big">26sp</dimen>
+    <dimen name="text_headline">24sp</dimen>
+    <dimen name="text_title">20sp</dimen>
+    <dimen name="text_subtitle">18sp</dimen>
+    <dimen name="text_small_subtitle">12sp</dimen>
+    <dimen name="text_subheading">16sp</dimen>
+    <dimen name="text_body">14sp</dimen>
+    <dimen name="text_caption">12sp</dimen>
+
+    <!--PLACEHOLDERS-->
+    <dimen name="placeholder_default_icon_size">65dp</dimen>
+    <dimen name="placeholder_default_text_message">@dimen/text_subheading</dimen>
+
+    <!--DEFAULT-->
+    <dimen name="status_bar_size">25dp</dimen>
+    <dimen name="base_elevation">1dp</dimen>
+    <dimen name="card_elevation">4dp</dimen>
+    <dimen name="separator_height">1dp</dimen>
+    <dimen name="separator_height_thick">2dp</dimen>
+    <dimen name="tab_height">14dp</dimen>
+
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="button_padding">85dp</dimen>
+    <dimen name="click_padding">4dp</dimen>
+
+    <dimen name="roundness_full">1000dp</dimen>
+    <dimen name="roundness_partial">5dp</dimen>
+
+    <dimen name="multiline_edit_text_height">180dp</dimen>
+    <dimen name="multiline_edit_text_height_medium">140dp</dimen>
+
+    <!--ALBUMS-->
+    <dimen name="image_simulator_size">40dp</dimen>
+    <dimen name="album_size">72dp</dimen>
+    <dimen name="photo_min_height">150dp</dimen>
+    <dimen name="photo_max_height">300dp</dimen>
+
+    <!--TOOLBAR-->
+    <dimen name="user_placeholder_size_small">42dp</dimen>
+    <dimen name="user_image_size_small">41dp</dimen>
+    <dimen name="user_placeholder_size_big">123dp</dimen>
+    <dimen name="user_image_size_big">115dp</dimen>
+    <dimen name="user_placeholder_text_size_big">45sp</dimen>
+    <dimen name="user_placeholder_size">42dp</dimen>
+    <dimen name="user_image_size">41dp</dimen>
+    <dimen name="saved_login_image_size">175dp</dimen>
+    <dimen name="saved_login_initials_margin">32dp</dimen>
+    <dimen name="vertical_margin_toolbar_size">66dp</dimen>
+
+    <!--HOME-->
+    <dimen name="home_backdrop_height">110dp</dimen>
+    <dimen name="home_banner_height">170dp</dimen>
+    <dimen name="home_balance_height">215dp</dimen>
+    <dimen name="home_item_height">120dp</dimen>
+
+    <dimen name="menu_staggered_height_big">170dp</dimen>
+    <dimen name="menu_staggered_height_small">135dp</dimen>
+    <dimen name="extract_tab_layout_height">38dp</dimen>
+    <dimen name="filter_spinner_height">50dp</dimen>
+
+    <!--GENERIC DIALOG-->
+    <dimen name="generic_dialog_image_height">67dp</dimen>
+    <dimen name="generic_dialog_image_width">81dp</dimen>
+    <dimen name="generic_dialog_button_size">154dp</dimen>
+
+    <!--MAIN TRANSFER-->
+    <dimen name="main_transfer_width_resellers_image">107dp</dimen>
+    <dimen name="main_transfer_height_resellers_image">94dp</dimen>
+
+    <!--TUTORIAL-->
+    <dimen name="tutorial_title_text_size">26sp</dimen>
+    <dimen name="tutorial_subtitle_text_size">16sp</dimen>
+    <dimen name="tutorial_image_Height">300dp</dimen>
+    <dimen name="tutorial_image_Width">300dp</dimen>
+
+    <!--TUTORIAL-MACHINE-->
+    <dimen name="tutorial_machine_text_width">250dp</dimen>
+    <dimen name="tutorial_machine_icon_size">65dp</dimen>
+    <dimen name="tutorial_machine_width_video">300dp</dimen>
+    <dimen name="tutorial_machine_height_video">150dp</dimen>
+
+    <!--VALUE TRANSFER-->
+    <dimen name="value_transfer_button_width">133dp</dimen>
+
+    <!--PERSONAL DATA CODE-->
+    <dimen name="personal_data_code_button_width">198dp</dimen>
+    <dimen name="personal_data_code_button_height">44dp</dimen>
+
+    <!-- VALUE PAYMENT -->
+    <dimen name="value_payment_detail_button_width">150dp</dimen>
+    <dimen name="value_payment_detail">42dp</dimen>
+
+    <!--VALUE TICKET-->
+    <dimen name="value_ticket_available_ticket">32dp</dimen>
+
+    <!--TICKET GENERATED-->
+    <dimen name="ticket_generated_height_copy_button">45dp</dimen>
+    <dimen name="notification_indicator_height">15dp</dimen>
+    <dimen name="notification_indicator_font_size">7sp</dimen>
+
+    <!--BLUETOOTH-->
+    <dimen name="bluetooth_title_to_btn_margin">132dp</dimen>
+    <dimen name="bluetooth_bt_icon_height">120dp</dimen>
+    <dimen name="bluetooth_bt_circle_height">200dp</dimen>
+    <dimen name="bluetooth_check_icon_height">80dp</dimen>
+    <dimen name="timeline_tab_height">42dp</dimen>
+    <dimen name="timeline_image_height">180dp</dimen>
+
+    <!-- PAYMENT TERMINAL -->
+    <dimen name="value_payment_terminal_button_width">210dp</dimen>
+
+    <!--LOADING BLUOETOOTH-->
+    <dimen name="loading_width">100dp</dimen>
+    <dimen name="loading_height">100dp</dimen>
+    <dimen name="loading_height_bank">75dp</dimen>
+    <dimen name="loading_padding">10dp</dimen>
+    <dimen name="terms_size_pager">120dp</dimen>
+
+
+    <dimen name="small_padding">8dp</dimen>
+    <dimen name="medium_padding">16dp</dimen>
+
+    <dimen name="corner_small">4dp</dimen>
+
+    <dimen name="size_plans_select">26dp</dimen>
+
+
+    <!--TERMS-->
+    <dimen name="terms_size">40dp</dimen>
+
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="horizontalMarginDetail">4dp</dimen>
+    <dimen name="horizontalMarginSmall">8dp</dimen>
+    <dimen name="horizontalMargin">16dp</dimen>
+    <dimen name="horizontalMarginLarge">32dp</dimen>
+    <dimen name="verticalMarginDetail">4dp</dimen>
+    <dimen name="verticalMarginSmall">8dp</dimen>
+    <dimen name="verticalMargin">16dp</dimen>
+    <dimen name="verticalMarginLarge">32dp</dimen>
+    <dimen name="verticalMarginXLarge">48dp</dimen>
+
+    <!--BUTTON-->
+    <dimen name="buttonHeight">60dp</dimen>
+
+    <!--CORNER-->
+    <dimen name="cornerNone">0dp</dimen>
+    <dimen name="cornerSmall">4dp</dimen>
+    <dimen name="cornerMediumSmall">5dp</dimen>
+    <dimen name="cornerMedium">8dp</dimen>
+    <dimen name="cornerBig">16dp</dimen>
+    <dimen name="cornerPill">999dp</dimen>
+
+    <!--BORDER WIDTH-->
+    <dimen name="borderWidthNone">0dp</dimen>
+    <dimen name="borderWidthSmall">1dp</dimen>
+    <dimen name="borderWidthMedium">2dp</dimen>
+    <dimen name="borderWidthBig">4dp</dimen>
+
+    <!--OPACITY-->
+    <item name="opacityOpaque" format="float" type="dimen">0.72</item>
+    <item name="opacityMedium" format="float" type="dimen">0.40</item>
+    <item name="opacityLight" format="float" type="dimen">0.24</item>
+
+    <!--TEXT SIZES-->
+    <dimen name="textTitle">30sp</dimen>
+    <dimen name="textTitleSmall">25sp</dimen>
+    <dimen name="textBig">18sp</dimen>
+    <dimen name="textMedium">15sp</dimen>
+    <dimen name="textParagraph">15sp</dimen>
+    <dimen name="textSmall">12sp</dimen>
+    <dimen name="textExtraSmall">10sp</dimen>
+
+    <!--TEXT SPACING-->
+    <dimen name="spacingTitle">0dp</dimen>
+    <dimen name="spacingTitleSmall">0dp</dimen>
+    <dimen name="spacingBig">0dp</dimen>
+    <dimen name="spacingMedium">0dp</dimen>
+    <dimen name="spacingParagraph">0dp</dimen>
+    <dimen name="spacingSmall">0dp</dimen>
+    <dimen name="spacingExtraSmall">0dp</dimen>
+
+    <!--TEXT LINES-->
+    <dimen name="lineTitle">0dp</dimen>
+    <dimen name="lineTitleSmall">0dp</dimen>
+    <dimen name="lineBig">0dp</dimen>
+    <dimen name="lineMedium">0dp</dimen>
+    <dimen name="lineParagraph">0dp</dimen>
+    <dimen name="lineSmall">0dp</dimen>
+    <dimen name="lineExtraSmall">0dp</dimen>
+
+    <!--PLACEHOLDERS-->
+    <dimen name="placeholderDefaultIconSize">65dp</dimen>
+    <dimen name="placeholderDefaultTextSize">@dimen/textBig</dimen>
+
+    <!--DEFAULT-->
+    <dimen name="statusBarSize">25dp</dimen>
+    <dimen name="arrowSize">20dp</dimen>
+    <dimen name="arrowSize_medium">10dp</dimen>
+
+
+    <!--ALBUMS-->
+    <dimen name="albumSize">72dp</dimen>
+    <dimen name="photoMinHeight">150dp</dimen>
+    <dimen name="photoMaxHeight">300dp</dimen>
+
+    <!--PLACEHOLDERS-->
+    <dimen name="IconHeight">100dp</dimen>
+    <dimen name="IconWidth">100dp</dimen>
+    <dimen name="IconStarsHeight">50dp</dimen>
+    <dimen name="IconStarsWidth">50dp</dimen>
+    <dimen name="IconStartSize">24dp</dimen>
+
+    <!--BRANDS-->
+    <dimen name="brandMinHeight">24dp</dimen>
+    <dimen name="brandMaxHeight">28dp</dimen>
+    <dimen name="brandMinWidth">300dp</dimen>
+
+    <!--LIST-->
+    <dimen name="sizeListMinHeight">50dp</dimen>
+    <dimen name="itemListMaxHeight">120dp</dimen>
+
+    <!--INSTALLMENTS_FRAGMENT-->
+    <dimen name="placeholderDefaultHeight">100dp</dimen>
+
+    <!--STROKE-->
+    <dimen name="strokeDefaultSize">2dp</dimen>
+
+    <!--QR CODE-->
+    <dimen name="pix_qr_code_size">110dp</dimen>
+    <dimen name="pix_qr_code_small_size">92dp</dimen>
+
+    <!--KNOW MORE VIEW-->
+    <dimen name="width_button_know_more">200dp</dimen>
+
+    <!--IMAGE SIZE-->
+    <dimen name="img_width">110dp</dimen>
+    <dimen name="img_height">85dp</dimen>
+
+    <!--TEXT INPUT LAYOUT SIZE-->
+    <dimen name="text_input_width_large">175dp</dimen>
+
+    <!-- PIN VIEW -->
+    <dimen name="pin_view_width">45dp</dimen>
+    <dimen name="pin_view_height">60dp</dimen>
+
+    <!-- CONFIRM PAYMENT -->
+    <dimen name="confirmValuePaymentHeight">60dp</dimen>
+
+    <!-- BARCODE -->
+    <dimen name="barcode_reader_size">250dp</dimen>
+
+    <!--ELEVATION-->
+    <dimen name="qr_code_text_elevation">7dp</dimen>
+    <dimen name="qr_code_view_elevation">2dp</dimen>
+
+    <!--CORNERS-->
+    <dimen name="default_corner">15dp</dimen>
+    <dimen name="page_indicator_corner">4dp</dimen>
+
+    <!-- Pix Button Check Code-->
+    <dimen name="pixSmsButtonHeight">50dp</dimen>
+    <dimen name="check_code_title_line_spacing">4sp</dimen>
+    <dimen name="check_code_pix_margin_horizontal">3dp</dimen>
+    <dimen name="home_card_padding_vertical">20dp</dimen>
+
+</resources>

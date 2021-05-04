@@ -1,0 +1,23 @@
+<resources>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="app_name">Movies List - MVI</string>
+    <string name="loginscreenprofilephoto">loginScreenProfilePhoto</string>
+    <string name="loginScreenLoginTxt">Nome</string>
+    <string name="loginScreenBtn">Entrar</string>
+    <string name="loginScreenPasswordTxt">Senha</string>
+    <string name="likes">likes</string>
+    <string name="views">views</string>
+    <string name="icon_likes">icon likes</string>
+    <string name="icon_movie_total_views">icon movie total views</string>
+    <string name="photo_main_movie">photo main movie</string>
+    <string name="sem_internet_verifique_sua_conex_o_e_tente_novamente">Ops! Tivemos um problema, verifique sua conexão e tente novamente</string>
+    <string name="foto_filmes_similares">foto filmes similares</string>
+    <string name="icone_check">icone check</string>
+    <string name="tentar_novamente">Tentar novamente</string>
+    <string name="logo_erro">logo erro</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="img_movie_detail">img_movie_detail</string>
+    <string name="movies_list">Movies List</string>
+    <string name="movie_detail">Movie Detail</string>
+</resources>
